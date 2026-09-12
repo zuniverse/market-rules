@@ -1,3 +1,12 @@
 [workspace]
 resolver = "3"
 members = ["crates/*", "rules/*"]
+
+[workspace.package]
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/<ton-compte>/market-rules"
+rust-version = "1.85"
+
+[workspace.dependencies]
+thiserror = "2"
