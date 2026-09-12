@@ -33,14 +33,14 @@ any machine.
 
 ## Status
 
-| Component | State |
-|-----------|-------|
-| Fixed point conversion | in progress |
-| MSR recording reader | in progress |
-| wasmtime host and rule lifecycle | planned |
-| Fuel and memory limits | planned |
-| Example rules | planned |
-| Benchmarks | planned |
+| Component                        | State       |
+| -------------------------------- | ----------- |
+| Fixed point conversion           | in progress |
+| MSR recording reader             | in progress |
+| wasmtime host and rule lifecycle | planned     |
+| Fuel and memory limits           | planned     |
+| Example rules                    | planned     |
+| Benchmarks                       | planned     |
 
 ## Design
 
@@ -50,4 +50,4 @@ driven rather than candle based and why everything is fixed point, is in
 
 ## License
 
-Apache-2.0 OR MIT.
+MIT.
